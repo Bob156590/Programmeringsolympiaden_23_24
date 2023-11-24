@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Programmering\Uppgift 4\bin\Debug\net7.0\Uppgift 4.exe
+C:\Users\Admin\Documents\Programmering\Uppgift 4\bin\Debug\net7.0\Uppgift 4.deps.json
+C:\Users\Admin\Documents\Programmering\Uppgift 4\bin\Debug\net7.0\Uppgift 4.runtimeconfig.json
+C:\Users\Admin\Documents\Programmering\Uppgift 4\bin\Debug\net7.0\Uppgift 4.dll
+C:\Users\Admin\Documents\Programmering\Uppgift 4\bin\Debug\net7.0\Uppgift 4.pdb
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\Uppgift 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\Uppgift 4.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\Uppgift 4.AssemblyInfo.cs
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\Uppgift 4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\Uppgift 4.dll
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\refint\Uppgift 4.dll
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\Uppgift 4.pdb
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\Uppgift 4.genruntimeconfig.cache
+C:\Users\Admin\Documents\Programmering\Uppgift 4\obj\Debug\net7.0\ref\Uppgift 4.dll
